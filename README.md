@@ -56,10 +56,10 @@ And compare their performance in identifying fraud without using supervised labe
 
 ## Files in this Repository
 
-- `fraud_detection.ipynb`: Full notebook with analysis, modeling, and results
-- `creditcard.csv`: Dataset (can be downloaded separately)
-- `README.md`: Project summary and details
-- `requirements.txt`: Python packages used
+- `fraud_detection.ipynb`: Full notebook with analysis, modeling, and results.
+- `creditcard.csv`: Dataset (can be downloaded separately).
+- `README.md`: Project summary and details.
+- `requirements.txt`: Python packages used.
 
 ---
 
