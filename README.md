@@ -76,11 +76,5 @@ And compare their performance in identifying fraud without using supervised labe
 
 ## Author
 
-Built by [Your Name] as part of a personal data science portfolio.
+Built by Mudit Nautiyal as part of a personal data science portfolio.
 """
-
-# Save to README.md
-with open("README.md", "w") as f:
-    f.write(readme_content)
-
-print("README.md created successfully.")
