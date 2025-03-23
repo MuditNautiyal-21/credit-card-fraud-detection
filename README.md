@@ -1,3 +1,5 @@
+![Banner](images/banner.png)
+
 # Fraud Detection in Credit Card Transactions
 
 This project applies unsupervised machine learning techniques to identify fraudulent transactions in credit card data using anomaly detection algorithms. The models were trained without access to fraud labels, simulating a real-world scenario where fraud is rare and labels are delayed or unavailable.
